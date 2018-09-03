@@ -8,7 +8,7 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
 
-[London School of TDD] (http://coding-is-like-cooking.info/2013/04/the-london-school-of-test-driven-development/)
+[London School of TDD](http://coding-is-like-cooking.info/2013/04/the-london-school-of-test-driven-development)
 
 ### Principles
 
