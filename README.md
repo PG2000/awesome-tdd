@@ -10,6 +10,10 @@
 
 ### Principles
 
+[Fake It (‘Til You Make It)](http://wiki.c2.com/?FakeIt)
+
+[Outside In](http://coding-is-like-cooking.info/2013/04/outside-in-development-with-double-loop-tdd/)
+
 ### Example walthroughs
 
 ### Books
