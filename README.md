@@ -4,11 +4,15 @@
 
 ### Basics
 
-[Test Driven Development](http://wiki.c2.com/?TestDrivenDevelopment)
+[C2 Wiki](http://wiki.c2.com/?TestDrivenDevelopment)
 
-[Test Driven Development - Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
+[Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
 
 ### Principles
+
+[Fake It (‘Til You Make It)](http://wiki.c2.com/?FakeIt)
+
+[Outside In](http://coding-is-like-cooking.info/2013/04/outside-in-development-with-double-loop-tdd/)
 
 ### Example walthroughs
 
@@ -18,3 +22,4 @@
 
 ### Presentations
 [An Introduction to Test Driven Development](https://www.slideshare.net/CodeOps/an-introduction-to-test-driven-development)
+[TDD Flow: The Mantra in Action](https://slideshare.net/dionatanmoura/tdd-flow-the-mantra-in-action-san-francisco-software-craftsmanship-meetup-test-driven-developers-bay-area-meetup)
