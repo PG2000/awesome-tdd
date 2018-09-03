@@ -4,9 +4,9 @@
 
 ### Basics
 
-[Test Driven Development](http://wiki.c2.com/?TestDrivenDevelopment)
+[C2 Wiki](http://wiki.c2.com/?TestDrivenDevelopment)
 
-[Test Driven Development - Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
+[Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
 
 ### Principles
 
