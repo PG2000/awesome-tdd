@@ -25,3 +25,7 @@
 ### Presentations
 [An Introduction to Test Driven Development](https://www.slideshare.net/CodeOps/an-introduction-to-test-driven-development)
 [TDD Flow: The Mantra in Action](https://slideshare.net/dionatanmoura/tdd-flow-the-mantra-in-action-san-francisco-software-craftsmanship-meetup-test-driven-developers-bay-area-meetup)
+
+### Videos
+
+[Let's Code](https://www.jamesshore.com/Blog/Lets-Play)
