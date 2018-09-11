@@ -30,5 +30,6 @@
 
 
 [Let's Code](https://www.jamesshore.com/Blog/Lets-Play)
-[Outsid In](https://youtu.be/XHnuMjah6ps)
+
+[Outside In](https://youtu.be/XHnuMjah6ps)
 
