@@ -23,7 +23,7 @@
 
 
 ### :books: E-Books
-[TDD](https://leanpub.com/tdd-ebook/read/)
+[Test-Driven Development: Extensive Tutorial](https://leanpub.com/tdd-ebook/read/)
 
 ### :memo: Presentations
 [An Introduction to Test Driven Development](https://www.slideshare.net/CodeOps/an-introduction-to-test-driven-development)
