@@ -2,7 +2,7 @@
 
 ## TDD
 
-### Basics
+### :checkered_flag: Basics
 
 [C2 Wiki](http://wiki.c2.com/?TestDrivenDevelopment)
 
