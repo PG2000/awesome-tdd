@@ -16,7 +16,7 @@
 
 [Outside In](http://coding-is-like-cooking.info/2013/04/outside-in-development-with-double-loop-tdd/)
 
-### Example walthroughs
+### :running: Example walthroughs
 
 ### :books: Books
 [Test Driven Development: By Example](https://www.pearson.com/us/higher-education/program/Beck-Test-Driven-Development-By-Example/PGM206172.html)
