@@ -19,7 +19,6 @@
 ### Example walthroughs
 
 ### :books: Books
-
 [Test Driven Development: By Example](https://www.pearson.com/us/higher-education/program/Beck-Test-Driven-Development-By-Example/PGM206172.html)
 
 ### Presentations
@@ -27,9 +26,7 @@
 
 [TDD Flow: The Mantra in Action](https://slideshare.net/dionatanmoura/tdd-flow-the-mantra-in-action-san-francisco-software-craftsmanship-meetup-test-driven-developers-bay-area-meetup)
 
-### Videos
-
-
+### :tv: Videos
 [Let's Code](https://www.jamesshore.com/Blog/Lets-Play)
 
 [Outside In](https://youtu.be/XHnuMjah6ps)
