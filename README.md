@@ -17,7 +17,6 @@
 [Outside In](http://coding-is-like-cooking.info/2013/04/outside-in-development-with-double-loop-tdd/)
 
 [Mock Roles, not Objects - PDF](http://jmock.org/oopsla2004.pdf)
-### :running: Example walthroughs
 
 ### :beginner: Courses
 
