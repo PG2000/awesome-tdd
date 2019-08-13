@@ -19,7 +19,7 @@
 [Mock Roles, not Objects - PDF](http://jmock.org/oopsla2004.pdf)
 ### :running: Example walthroughs
 
-### :runnung: Courses
+### :beginner: Courses
 
 [TDD Intro](https://github.com/jamesshore/tdd-intro.git)
 
